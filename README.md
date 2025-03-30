@@ -1,6 +1,4 @@
-==============================
-README for RUN.exe
-==============================
+# THIS NO LONGER WORKS IN WINDOWS 11 24H2. WILL BE WORKING ON A FIX.
 
 PowerSettingsUtility
 ------------------------------
